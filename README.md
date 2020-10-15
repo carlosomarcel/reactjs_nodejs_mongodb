@@ -1,2 +1,2 @@
-# reactjs_nodejs_moogodb
+# reactjs_nodejs_mongodb
 Projeto com React + NodeJs + Mongo
